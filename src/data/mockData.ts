@@ -20,7 +20,7 @@ export const INITIAL_ATTRACTIONS: Attraction[] = [
     minAge: 12,
     maxCapacity: 24,
     currentCapacity: 0,
-    imageUrl: 'https://images.unsplash.com/photo-1513889959010-653b652677fa?auto=format&fit=crop&q=80&w=800',
+    imageUrl: '/images/gorki.jpg',
     price: 25,
   },
   {
@@ -32,7 +32,7 @@ export const INITIAL_ATTRACTIONS: Attraction[] = [
     minAge: 5,
     maxCapacity: 40,
     currentCapacity: 0,
-    imageUrl: 'https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800',
+    imageUrl: '/images/safari.jpg',
     price: 15,
   },
   {
@@ -44,7 +44,7 @@ export const INITIAL_ATTRACTIONS: Attraction[] = [
     minAge: 0,
     maxCapacity: 30,
     currentCapacity: 0,
-    imageUrl: 'https://images.unsplash.com/photo-1563214811-007f30089859?auto=format&fit=crop&q=80&w=800',
+    imageUrl: '/images/karusel.jpg',
     price: 10,
   },
   {
@@ -56,7 +56,7 @@ export const INITIAL_ATTRACTIONS: Attraction[] = [
     minAge: 14,
     maxCapacity: 12,
     currentCapacity: 0,
-    imageUrl: 'https://images.unsplash.com/photo-1502930744104-19755037d1d6?auto=format&fit=crop&q=80&w=800',
+    imageUrl: '/images/padenie.jpg',
     price: 20,
   },
 ];
